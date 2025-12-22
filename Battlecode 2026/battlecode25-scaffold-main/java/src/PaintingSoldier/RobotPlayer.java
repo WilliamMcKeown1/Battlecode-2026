@@ -1,5 +1,5 @@
 package PaintingSoldier;
-
+ yooooo
 import battlecode.common.*;
 
 import java.util.Random;
