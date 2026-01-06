@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b20720f3-deff-4d38-91f9-658261620456" name="Changes" comment="yo">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Battlecode-2026.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/DoNothingTester/RobotPlayer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/DoNothingTester/RobotPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/GoNorthMyFriend/RobotPlayer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/GoNorthMyFriend/RobotPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomly/RobotPlayer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomly/RobotPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomlyWithPurpose/RobotPlayer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomlyWithPurpose/RobotPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MyArmy/RobotPlayer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MyArmy/RobotPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/PaintingSoldier/RobotPlayer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/PaintingSoldier/RobotPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/examplefuncsplayer/RobotPlayer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/examplefuncsplayer/RobotPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/libs/java.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/classes/examplefuncsplayer.RobotPlayerTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/packages/examplefuncsplayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/TEST-examplefuncsplayer.RobotPlayerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tests/examplefuncsplayer/RobotPlayerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/client/Battlecode Client.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/client_version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/engine_version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/GoNorthMyFriend-vs-GoNorthMyFriend-on-AlarmClock,Barcode,BatSignal.bc25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/MoveRandomlyWithPurpose-vs-MoveRandomlyWithPurpose-on-AlarmClock,Barcode,BatSign.bc25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/examplefuncsplayer-vs-examplefuncsplayer-on-AlarmClock,Barcode,BatSignal.bc25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/examplefuncsplayer-vs-examplefuncsplayer-on-DefaultSmall.bc25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/DoNothingTester/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/GergArmy/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/GoNorthMyFriend/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/MoveRandomly/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/MoveRandomlyWithPurpose/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/MyArmy/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/PaintingSoldier/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/examplefuncsplayer/RobotPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/test/examplefuncsplayer/RobotPlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/src/examplefuncsplayer/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine_version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WilliamMcKeown1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WilliamMcKeown1/Battlecode-2026.git&quot;,
+    &quot;accountId&quot;: &quot;af4f1e71-f2c7-4375-a1fd-52d3935b28da&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="37DCrg4GvqXA4qI91uyrjG4nErS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2603753\IdeaProjects\Battlecode-2026" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b20720f3-deff-4d38-91f9-658261620456" name="Changes" comment="" />
+      <created>1766428454203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766428454203</updated>
+    </task>
+    <task id="LOCAL-00001" summary="yo">
+      <option name="closed" value="true" />
+      <created>1766428496947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766428496947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="yo">
+      <option name="closed" value="true" />
+      <created>1766428539287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766428539287</updated>
+    </task>
+    <task id="LOCAL-00003" summary="yo">
+      <option name="closed" value="true" />
+      <created>1766428564546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766428564546</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yo" />
+    <option name="LAST_COMMIT_MESSAGE" value="yo" />
+  </component>
+</project>
