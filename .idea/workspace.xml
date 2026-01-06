@@ -4,80 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20720f3-deff-4d38-91f9-658261620456" name="Changes" comment="yo">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Battlecode-2026.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/DoNothingTester/RobotPlayer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/DoNothingTester/RobotPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/GoNorthMyFriend/RobotPlayer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/GoNorthMyFriend/RobotPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomly/RobotPlayer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomly/RobotPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomlyWithPurpose/RobotPlayer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MoveRandomlyWithPurpose/RobotPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MyArmy/RobotPlayer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/MyArmy/RobotPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/PaintingSoldier/RobotPlayer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/PaintingSoldier/RobotPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/examplefuncsplayer/RobotPlayer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/classes/examplefuncsplayer/RobotPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/libs/java.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/classes/examplefuncsplayer.RobotPlayerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/reports/tests/test/packages/examplefuncsplayer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/TEST-examplefuncsplayer.RobotPlayerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tests/examplefuncsplayer/RobotPlayerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/client/Battlecode Client.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/client_version.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/engine_version.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/GoNorthMyFriend-vs-GoNorthMyFriend-on-AlarmClock,Barcode,BatSignal.bc25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/MoveRandomlyWithPurpose-vs-MoveRandomlyWithPurpose-on-AlarmClock,Barcode,BatSign.bc25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/examplefuncsplayer-vs-examplefuncsplayer-on-AlarmClock,Barcode,BatSignal.bc25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/matches/examplefuncsplayer-vs-examplefuncsplayer-on-DefaultSmall.bc25" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/DoNothingTester/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/GergArmy/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/GoNorthMyFriend/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/MoveRandomly/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/MoveRandomlyWithPurpose/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/MyArmy/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/PaintingSoldier/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/src/examplefuncsplayer/RobotPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/java/test/examplefuncsplayer/RobotPlayerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/properties.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Battlecode 2026/battlecode25-scaffold-main/python/src/examplefuncsplayer/bot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_version.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/engine_version.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-    </list>
+    <list default="true" id="b20720f3-deff-4d38-91f9-658261620456" name="Changes" comment="yo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766428564546</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="yo">
+      <option name="closed" value="true" />
+      <created>1767726550753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767726550753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="yo">
+      <option name="closed" value="true" />
+      <created>1767726642164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767726642164</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
